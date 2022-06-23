@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Falco Home Automation</string>
+    <string name="navigation_open">open Navigation drawer</string>
+    <string name="navigation_close">close Navigation drawer</string>
+   <string name="client_id">515461706485-mv134sctvpvmo8cajemgo1dibhd6nove.apps.googleusercontent.com</string>
+    <!--    <string name="default_web_client_id">default web</string>-->
+
+
+</resources>
